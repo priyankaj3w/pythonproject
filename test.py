@@ -1,2 +1,2 @@
 print ("Hello")
-print ("Myself Priyanka")
+print ("Myself")
